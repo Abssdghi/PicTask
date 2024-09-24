@@ -1,4 +1,4 @@
-![icon](assets/icon.png)
+![icon](assets/icon_160px.png)
 
 # PicTask Flet app
 
