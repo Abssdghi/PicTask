@@ -9,5 +9,5 @@ Flet is a framework that allows building web, desktop and mobile applications in
 To run the app:
 
 ```
-flet run [app_directory]
+flet run main.py
 ```
