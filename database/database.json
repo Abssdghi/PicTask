@@ -1,0 +1,14 @@
+{
+    "device_name": "test",
+    "date": "miladi",
+    "gem": 0,
+    "theme": "dark",
+    "gem_icon": "assets/gemicons/gem.png",
+    "tasks": {},
+    "shop": {},
+    "deletedtasks": [],
+    "deletedshop": [],
+    "next_task_id": 1000000000,
+    "next_shop_id": 2000000000,
+    "reset": 1
+}

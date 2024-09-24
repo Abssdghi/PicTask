@@ -1,0 +1,4 @@
+flet==0.22.*
+jdatetime
+bing_image_urls
+requests
